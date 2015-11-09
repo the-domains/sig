@@ -1,0 +1,23 @@
+name: SIG
+favicon: null
+layout_spectrum: 0.22987630171701312
+typography_spectrum: 0.3816562104038894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7804375051055104
+  lightness: 0.6629671414848417
+  saturation: 0.1501841761637479
+  rhythmicContrast: 0.9509900412522256
+purpose: []
